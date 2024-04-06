@@ -1,0 +1,3 @@
+Solid Backups uses the same notification identifiers internally for the "Activity" audit log.
+
+See ../classes/api/notifications.txt
